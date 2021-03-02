@@ -1,0 +1,10 @@
+form {
+  margin: 20px;
+}
+form div {
+  display: -ms-grid;
+  display: grid;
+  margin: 20px 0;
+  -ms-grid-columns: 28% 20%;
+  grid-template-columns: 28% 20%;
+}
